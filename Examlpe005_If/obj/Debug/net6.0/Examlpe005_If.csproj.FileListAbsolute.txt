@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\bin\Debug\net6.0\Examlpe005_If.exe
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\bin\Debug\net6.0\Examlpe005_If.deps.json
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\bin\Debug\net6.0\Examlpe005_If.runtimeconfig.json
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\bin\Debug\net6.0\Examlpe005_If.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\bin\Debug\net6.0\Examlpe005_If.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\refint\Examlpe005_If.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\Examlpe005_If.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe005_If\obj\Debug\net6.0\ref\Examlpe005_If.dll
