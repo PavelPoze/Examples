@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\bin\Debug\net6.0\Examlpe007_While.exe
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\bin\Debug\net6.0\Examlpe007_While.deps.json
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\bin\Debug\net6.0\Examlpe007_While.runtimeconfig.json
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\bin\Debug\net6.0\Examlpe007_While.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\bin\Debug\net6.0\Examlpe007_While.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\refint\Examlpe007_While.dll
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.pdb
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\Examlpe007_While.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\For_VSCode\Examples\Examlpe007_While\obj\Debug\net6.0\ref\Examlpe007_While.dll
