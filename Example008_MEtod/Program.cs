@@ -28,7 +28,7 @@ void Metod21(string msg, int count)
 }
 Metod21("Текст", 4);//- метод вызывает Текст, после запятой указано количество вызовов, в нашем случае 4.
 */
-   
+
 
 // 3
 /*
@@ -65,7 +65,7 @@ Console.WriteLine(res);
 */
 
 //Итак, синтаксис цикла for примерно следующий.
-
+/*
 string Metod4(int count, string text)
 {
     string result = String.Empty;
@@ -77,3 +77,92 @@ string Metod4(int count, string text)
 }
 string res = Metod4(10, "  asdf");
 Console.WriteLine(res);
+*/
+/*
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2; j <=10; j++)
+    {
+        Console.WriteLine($"{i} x {j} = {i*j}");
+    }
+    Console.WriteLine();
+}
+
+*/
+
+
+//=====Работа с текстом
+// Дан текст. В тексте нужно все пробелы заменить чёрточками,
+// маленькие буквы “к” заменить большими “К”,
+// а большие “С” маленькими “с”.
+// Ясна ли задача?
+//Дальше. У нас есть сам текст. Можете в чат написать или в комментариях написать, о том
+//узнали ли вы произведения, откуда взят этот текст? И дальше мы уже начинаем писать код.
+/*
+string text = "— Я думаю, — сказал князь, улыбаясь, — что,"
+            + "ежели бы вас послали вместо нашего милого Винценгероде,"
+            + "вы бы взяли приступом согласие прусского короля."
+            + "Вы так красноречивы. Вы дадите мне чаю?";
+//В нашем случае требуется небольшое пояснение, если будет какая-то строка, то для этой
+//строки есть некоторое количество вспомогательного функционала.
+// string s = “qwerty”
+//             012345
+//s[3] // r
+/*
+string Replase(string text, char oldValue, char newValue)
+{
+    string result = String.Empty;
+
+    int length = text.Length;
+    for (int i = 0; i < length; i++)
+    {
+        if (text[i] == oldValue) result = result + $"{newValue}";
+        else result = result + $"{text[i]}";
+    }
+    return result;
+}
+
+string newText = Replase(text, ' ', '|');
+Console.WriteLine(newText);
+Console.WriteLine();
+newText = Replase(text, 'к', 'К');
+Console.WriteLine(newText);
+*/
+/*
+
+
+Упорядочить массивы
+Было: 6 8 3 2 1 4 5 7
+Стало: 1 8 3 2 6 4 5 7
+Напишем код*/
+int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
+
+void PrintArray(int[] array)
+{
+    int count = array.Length;
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write($"{array[i]}");
+    }
+Console.WriteLine();
+}
+
+void SelectionSort(int[] array)
+{
+    for (int i =0; i < array.Length - 1; i++)
+    {
+        int  minPozition = i;
+        for (int j = i +1 ; j < array.Length; j++)
+        {
+            if (array[j] < array[minPozition]) minPozition = j;
+        }
+        ///
+        //
+        int temporary = array[i];
+        array[i] = array[minPozition];
+        array[minPozition] = temporary;
+    }
+}
+PrintArray(arr);
+SelectionSort(arr);
+PrintArray(arr);
